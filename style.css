@@ -1,0 +1,15 @@
+.btn-warning {
+  display: block;
+  text-align: center;
+  margin-left: 27%;
+  border-radius: 20px;
+  font-size: 20px;
+}
+body {
+  display: flex;
+  margin: 50px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+.card {
+  margin-left: 50px;
+}
